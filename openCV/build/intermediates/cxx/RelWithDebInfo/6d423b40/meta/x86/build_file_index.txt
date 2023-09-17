@@ -1,1 +1,0 @@
-/Users/arqoub/Desktop/workspace/androidOpenCV/openCV/libcxx_helper/CMakeLists.txt
