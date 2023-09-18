@@ -1,4 +1,4 @@
-package com.ps.open_cv_andorid;
+package com.ps.android_open_cv;
 
 
 import android.graphics.Bitmap;
