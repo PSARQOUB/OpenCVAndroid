@@ -29,7 +29,6 @@ public class CVWrapper {
         Core.meanStdDev(laplacianImage, mean, stddev);
 
         double variance = Math.pow(stddev.get(0, 0)[0], 2);
-        Log.e("open_cv", "variance = " + variance + "" );
         return variance;
     }
 
