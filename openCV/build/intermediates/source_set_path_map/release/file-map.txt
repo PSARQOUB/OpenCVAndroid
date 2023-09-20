@@ -1,0 +1,8 @@
+org.opencv.openCV-pngs-0 /Users/arqoub/Desktop/workspace/opencvandorid/openCV/build/generated/res/pngs/release
+org.opencv.openCV-resValues-1 /Users/arqoub/Desktop/workspace/opencvandorid/openCV/build/generated/res/resValues/release
+org.opencv.openCV-rs-2 /Users/arqoub/Desktop/workspace/opencvandorid/openCV/build/generated/res/rs/release
+org.opencv.openCV-mergeReleaseResources-3 /Users/arqoub/Desktop/workspace/opencvandorid/openCV/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+org.opencv.openCV-mergeReleaseResources-4 /Users/arqoub/Desktop/workspace/opencvandorid/openCV/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+org.opencv.openCV-merged_res-5 /Users/arqoub/Desktop/workspace/opencvandorid/openCV/build/intermediates/merged_res/release
+org.opencv.openCV-java-6 /Users/arqoub/Desktop/workspace/opencvandorid/openCV/java/res
+org.opencv.openCV-release-7 /Users/arqoub/Desktop/workspace/opencvandorid/openCV/src/release/res

@@ -2,6 +2,7 @@ package com.ps.android_open_cv;
 
 
 import android.graphics.Bitmap;
+import android.util.Log;
 
 import org.opencv.android.Utils;
 import org.opencv.core.Core;
